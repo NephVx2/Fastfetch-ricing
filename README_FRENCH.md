@@ -2,7 +2,7 @@
 
 🇬🇧 [Read in English](./README.md)
 
-![Aperçu](./preview.png)
+![Aperçu](./Preview.png)
 
 Une config [Fastfetch](https://github.com/fastfetch-cli/fastfetch) pour Windows 11 / PowerShell, avec :
 
